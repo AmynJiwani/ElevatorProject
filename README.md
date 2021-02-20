@@ -1,9 +1,9 @@
 # TEJ2O-Assignment-Elevator
 A software counterpart corresponding with the construction of a working model elevator.
+
 Explanation of Circuit Operation
 
 The hardware of the Elevator contains two essential components: the Board and the Motor. The Board is made of components such as transistors, resistors, capacitors and LEDs, which each function when the board is turned on. Through a power supply, the board receives electrical power- controlled by the resistors and other electrical components. This power source is then used to run the motor, both of which are connected to the board by a set of wires.
-
 The motor itself is also programmed by the board, as it also has a slot for a connector. This connector plugs into the computer, extrapolating the binary values provided by the program and its conditional statement. This is what’s used to program the motor, by translating these binary values into rotations that the motor does to move itself up and down. 
 
 Explanation of Program Operation (Mostly Pseudocode)
