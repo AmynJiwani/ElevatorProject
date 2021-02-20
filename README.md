@@ -15,12 +15,12 @@ An example of both variables occurring in the program would be in Figure 3. The 
  
 Additional Information:
 
-The following are the materials (both Hardware and Software) used in the Summative Elevator Assignment
-GCC C Programming
-Motor
-3 pieces Foam Core (71.10cm x 55.8cm x 0.20cm)
-Dowel (30cm)
-Glue Gun and Tape- both used for securing parts
-Spray Paint (Dark Blue) 
-Box-Cutter
+The following are the materials (both Hardware and Software) used in the Summative Elevator Assignment:
+GCC C Programming, 
+Motor, 
+3 pieces Foam Core (71.10cm x 55.8cm x 0.20cm), 
+Dowel (30cm), 
+Glue Gun and Tape- both used for securing parts, 
+Spray Paint (Dark Blue),  
+Box-Cutter, 
 Ruler
