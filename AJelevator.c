@@ -1,6 +1,5 @@
 /*
-	Amyn Jiwani, Kouju Hashimoto, Vincent Tran	
-	TEJ2O1 SUMMATIVE- Elevator						
+	Amyn Jiwani							
 	June 14th, 2019
 	This program employs conditionals- namely if-statements and variants of if-statements to control an
 	elevator. By having four floors in total on the elevator, the if-statements can take a command from any
