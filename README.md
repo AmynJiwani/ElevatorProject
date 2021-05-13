@@ -1,5 +1,5 @@
-# TEJ2O-Assignment-Elevator
-This assignment was a summative project for my TEJ20 Computer Engineering course. The main point of emphasis is a software counterpart corresponding with the construction of a working model elevator.
+# ElevatorProject
+This assignment was my first complex Computer Engineering project. The main point of emphasis is a software counterpart corresponding with the construction of a working model elevator.
 
 Explanation of Circuit Operation
 
